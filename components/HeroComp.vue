@@ -4,7 +4,8 @@
     <div class="text-container">
       <div class="text">
         <span class="mini-heading">Now Streaming</span>
-        <h1><span>Now</span>Streaming</h1>
+        <h1><span>Now</span> Streaming</h1>
+        <p class="mini-heading">Check 20 most popular movies on The MovieDB</p>
         <a href="#movie-grid" class="button">View Movies</a>
       </div>
     </div>
